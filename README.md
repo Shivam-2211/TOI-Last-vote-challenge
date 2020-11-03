@@ -54,4 +54,12 @@ Step 7: After all authentication final vote will be submitted in the Blockchain 
 
 ![Capture3](https://user-images.githubusercontent.com/62996762/98012528-35c73800-1e1f-11eb-97c7-1dcb9f1b6707.JPG)
 
+•	Hyper Ledger Fabric is a type of blockchain which asked for the approval to the particular authorised person for confirmation before doing any transaction for security purpose.
+
+•	HTML, CSS, JS for building the frontend of our web application.
+
+•	Angular JS & Node JS for backend.
+
+•	Other Technology like Metamask etc will be used which will act as middleware in the application. 
+
 
