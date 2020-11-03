@@ -1,2 +1,4 @@
 # TOI-Last-vote-challenge
 A solution for the problem statement - Many Indians are always on the move for work or education. Many things like the bank accounts and mobile numbers automatically travel with us. But our right to votes is tied to the place where it’s registered in. An individual must be physically present where they are registered on polling day to be allowed to vote. Because of this a lot of individuals are not able to vote and this results in declining the voting percentage. It needs to be changed. It should be possible for every Indian to vote irrespective of where he or she may be temporarily located. The objective of this challenge is to design a strong and secure technological solution or prototype that will allow electors to vote without having to go to the designated polling station of their respective constituencies.
+
+![Capture1](https://user-images.githubusercontent.com/62996762/98011587-11b72700-1e1e-11eb-98cf-b5a334799a23.JPG)
