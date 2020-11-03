@@ -52,4 +52,6 @@ Step 7: After all authentication final vote will be submitted in the Blockchain 
 
 •	Usability
 
+![Capture3](https://user-images.githubusercontent.com/62996762/98012528-35c73800-1e1f-11eb-97c7-1dcb9f1b6707.JPG)
+
 
