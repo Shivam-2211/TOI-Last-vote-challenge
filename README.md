@@ -63,7 +63,8 @@ Step 7: After all authentication final vote will be submitted in the Blockchain 
 •	Other Technology like Metamask etc will be used which will act as middleware in the application. 
 
 ## Authors:
-Shivam Diwate(Team Leader)
-Priti Kumbhare
-Apeksha Lakhe
+1. Shivam Diwate(Team Leader)
 
+2. Priti Kumbhare
+
+3. Apeksha Lakhe
